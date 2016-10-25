@@ -3,6 +3,13 @@ import random
 import math
 import operator
 
+# Integrantes:
+# Gabriel Pasqualini RM:67623
+# Diego Cardi RM: 64644
+# Jaime Junior RM: 67313
+# Andre Bassalo RM: 67264
+# Pedro Garcia RM: 67034
+
 # Tutorial seguido e adaptado: http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
 # Explicacao distancia euclidiana: https://en.wikipedia.org/wiki/Euclidean_distance
 

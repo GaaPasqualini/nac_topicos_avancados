@@ -6,13 +6,20 @@ from keras.utils import np_utils
 from sklearn.preprocessing import LabelEncoder
 from sklearn.cross_validation import train_test_split
 
+# Integrantes:
+# Gabriel Pasqualini RM:67623
+# Diego Cardi RM: 64644
+# Jaime Junior RM: 67313
+# Andre Bassalo RM: 67264
+# Pedro Garcia RM: 67034
+
 # Documentacao da library utilizada: https://keras.io/
 # Links uteis: https://keras.io/models/model/
 # https://keras.io/#getting-started-30-seconds-to-keras
 # https://keras.io/models/sequential/#sequential-model-methods
 # https://github.com/fchollet/keras
 # http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
-# 
+#
 # Tutoriais em: http://machinelearningmastery.com/
 
 # criacao do Model e adicao das camadas com ativacao Rectifier, que segundo o exemplo
